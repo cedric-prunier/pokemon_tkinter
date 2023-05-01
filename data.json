@@ -1,0 +1,130 @@
+{
+ "carapuce": {
+  "nom": "carapuce",
+  "type": "Eau",
+  "niveau": 1,
+  "puissance_attaque": 20,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "bulbizarre": {
+  "nom": "bulbizarre",
+  "type": "Terre",
+  "niveau": 1,
+  "puissance_attaque": 20,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "salameche": {
+  "nom": "salameche",
+  "type": "Feu",
+  "niveau": 1,
+  "puissance_attaque": 30,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "rondoudou": {
+  "nom": "rondoudou",
+  "type": "Normal",
+  "niveau": 1,
+  "puissance_attaque": 20,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "dracaufeu": {
+  "nom": "dracaufeu",
+  "type": "Feu",
+  "niveau": 3,
+  "puissance_attaque": 40,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "reptincel": {
+  "nom": "reptincel",
+  "type": "Feu",
+  "niveau": 2,
+  "puissance_attaque": 30,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "carabaffe": {
+  "nom": "carabaffe",
+  "type": "Eau",
+  "niveau": 2,
+  "puissance_attaque": 30,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "tortank": {
+  "nom": "tortank",
+  "type": "Eau",
+  "niveau": 3,
+  "puissance_attaque": 40,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "roucoule": {
+  "nom": "roucoule",
+  "type": "Normal",
+  "niveau": 1,
+  "puissance_attaque": 20,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "alakasam": {
+  "nom": "Alakasam",
+  "type": "Normal",
+  "niveau": 3,
+  "puissance_attaque": 50,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "Leviator": {
+  "nom": "Leviator",
+  "type": "Eau",
+  "niveau": 2,
+  "puissance_attaque": 50,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "Insecateur": {
+  "nom": "Insecateur",
+  "type": "Terre",
+  "niveau": 2,
+  "puissance_attaque": 40,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "Ronflex": {
+  "nom": "Ronflex",
+  "type": "Normal",
+  "niveau": 3,
+  "puissance_attaque": 50,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "Rattatac": {
+  "nom": "Rattatac",
+  "type": "Normal",
+  "niveau": 1,
+  "puissance_attaque": 20,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "florizarre": {
+  "nom": "florizarre",
+  "type": "Terre",
+  "niveau": 3,
+  "puissance_attaque": 50,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ },
+ "magmar": {
+  "nom": "magmar",
+  "type": "Feu",
+  "niveau": 2,
+  "puissance_attaque": 40,
+  "niveau_defense": 0,
+  "points_de_vie": 100
+ }
+}
