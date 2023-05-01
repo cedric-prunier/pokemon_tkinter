@@ -50,6 +50,13 @@ def afficher_pokedex(pokedex):
     arbre.column("Défense", width=60)
     arbre.column("PV", width=60)
 
+    arbre.heading("Nom", text="Nom")
+    arbre.heading("Type", text="Type")
+    arbre.heading("Niveau", text="Niveau")
+    arbre.heading("Attaque", text="Attaque")
+    arbre.heading("Défense", text="Défense")
+    arbre.heading("PV", text="PV")
+
     # Utilisez la méthode 'place()' pour définir la position de l'arbre
     arbre.place(x=555, y=120)
 
@@ -128,6 +135,6 @@ bouton = Button(
     height=2,
     command=afficher_pokedex(pokedex),
 )
-bouton.place(x=554, y=100)
+bouton.place(x=554, y=80)
 
 root4.mainloop()
